@@ -26,7 +26,10 @@ print(sol)
 ```
 
 ## Output:
-![OUTPUT](./image/exp01.png)
+![WhatsApp Image 2023-01-22 at 16 56 29](https://user-images.githubusercontent.com/119395610/213913358-a5468094-5722-4e79-aad1-45b18f3030e1.jpg)
+![WhatsApp Image 2023-01-22 at 16 56 38](https://user-images.githubusercontent.com/119395610/213913366-4d206c4d-23a1-4225-acbc-536782e476c6.jpg)
+
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
